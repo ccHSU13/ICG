@@ -1,5 +1,8 @@
 # ICG
 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-007d9c)&nbsp;
+ ![html](https://img.shields.io/badge/language-html-004283)&nbsp;
+
 #### MP1
 
 ![Logo Animation](./GIF/mp1_1.gif)
