@@ -1,6 +1,6 @@
 # ICG
 
-![JavaScript](https://img.shields.io/badge/language-JavaScript-007d9c)&nbsp;
+![JavaScript](https://img.shields.io/badge/language-JavaScript-ebb734)&nbsp;
  ![html](https://img.shields.io/badge/language-html-004283)&nbsp;
 
 #### MP1
