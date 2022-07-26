@@ -1,10 +1,13 @@
 # ICG
 
+![JavaScript](https://img.shields.io/badge/language-JavaScript-ebb734)&nbsp;
+ ![html](https://img.shields.io/badge/language-html-004283)&nbsp;
+
 #### MP1
 
-![Logo Animation](https://user-images.githubusercontent.com/86006022/143393883-dfc1f3bc-59c3-43e4-847b-6a0e656d1e42.gif)
+![Logo Animation](./GIF/mp1_1.gif)
 
-![My Animation](https://user-images.githubusercontent.com/86006022/143393892-3ac9b883-02cd-4c5b-8542-661336288dc4.gif)
+![My Animation](./GIF/mp1_2.gif)
 
 #### MP2
 
